@@ -130,8 +130,13 @@ a.nav-link{
 }
 
 .intro img {
-	width: 400px;
+	width: 500px;
 	height: auto;
+  }
+  
+  table {
+	margin: 0 auto;
+	font-size: 18px;
   }
   
 
