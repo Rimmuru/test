@@ -138,6 +138,10 @@ a.nav-link{
 	margin: 0 auto;
 	font-size: 18px;
   }
+
+  td.description {
+	padding-left: 20px;
+  }
   
 
 /*──────────────────
