@@ -1,4 +1,4 @@
-﻿@import url('css2');
+@import url('css2');
 
 :root{
 	--main-background: #0b0c0f;
@@ -139,6 +139,10 @@ a.nav-link{
 	font-size: 18px;
 	padding-left: 20px;
 	margin-top: 20px;
+  }
+
+  td.description {
+	padding-left: 20px;
   }
   
 
