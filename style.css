@@ -93,7 +93,7 @@ a.nav-link{
 }
 
 #home .filter{
-	background: url('photo-1636953056323-9c09fdd74fa6') no-repeat;
+	background: url('images/back.png') no-repeat;
 	background-size: cover;
 	background-position:center;
     position: absolute;
@@ -103,6 +103,86 @@ a.nav-link{
     right: 0;
 	opacity:.20;
 }  
+
+/*──────────────────
+       GTA
+──────────────────*/
+
+#gta{ 	
+	margin: auto;
+	height: 100vh;
+	color: var(--main-fonts-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+#gta .filter{
+	background: url('images/back1.png') no-repeat;
+	background-size: cover;
+	background-position:center;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	opacity:.20;
+}  
+
+/*──────────────────
+       RDR
+──────────────────*/
+
+#rdr{ 	
+	margin: auto;
+	height: 100vh;
+	color: var(--main-fonts-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+#rdr .filter{
+	background: url('images/rdr.png') no-repeat;
+	background-size: cover;
+	background-position:center;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	opacity:.20;
+}  
+
+/*──────────────────
+       Muck
+──────────────────*/
+
+#muck{ 	
+	margin: auto;
+	height: 100vh;
+	color: var(--main-fonts-color);
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-evenly;
+}
+
+#muck .filter{
+	background: url('images/backMuck.jpg') no-repeat;
+	background-size: cover;
+	background-position:center;
+    position: absolute;
+    top: 0px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+	opacity:.20;
+}  
+
+
 
 .intro {
 	text-align:center;
